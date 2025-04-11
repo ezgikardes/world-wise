@@ -11,8 +11,6 @@ function Sidebar() {
             <AppNav />
 
             <Outlet />
-
-            <p>List of cities</p>
             <Footer />
 
         </div>
