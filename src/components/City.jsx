@@ -48,7 +48,6 @@ function City() {
           <p>{notes}</p>
         </div>
       )}
-
       <div className={styles.row}>
         <h6>Learn more</h6>
         <a
